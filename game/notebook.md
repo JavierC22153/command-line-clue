@@ -8,7 +8,7 @@
 ## Weapons
 - [X] Wooden Box
 - [ ] Paint Brush
-- [ ] Walking Stick
+- [X] Walking Stick
 
 ## Notes
 *Use this space to record your findings and deductions...*
@@ -16,11 +16,13 @@ Persons
 The Florist - houses
 The Carpenter - mansion
 The Baker - park
+The Teacher - science lab
 
 Objects
 Silver Watch - mansion
 Leather Gloves - garden
 Antique Compass - pond
+Glass Bottle - science lab
 
 Lugar
 Library (Aqui ocurrio el crimen)
