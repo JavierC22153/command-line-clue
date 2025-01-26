@@ -6,7 +6,7 @@
 - [ ] The Doctor
 
 ## Weapons
-- [ ] Wooden Box
+- [X] Wooden Box
 - [ ] Paint Brush
 - [ ] Walking Stick
 
@@ -19,5 +19,8 @@ The Carpenter - mansion
 Objects
 Silver Watch - mansion
 Leather Gloves - garden
+
+Lugar
+Library (Aqui ocurrio el crimen)
 
 Location of the crime is still unknown - the room must have been empty when it happened...
