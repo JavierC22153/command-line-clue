@@ -18,6 +18,6 @@ The Carpenter - mansion
 
 Objects
 Silver Watch - mansion
-
+Leather Gloves - garden
 
 Location of the crime is still unknown - the room must have been empty when it happened...
