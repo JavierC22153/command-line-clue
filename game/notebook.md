@@ -2,7 +2,7 @@
 
 ## Suspects
 - [ ] The Mayor
-- [ ] The Police Officer
+- [X] The Police Officer
 - [ ] The Doctor
 
 ## Weapons
@@ -15,10 +15,12 @@
 Persons
 The Florist - houses
 The Carpenter - mansion
+The Baker - park
 
 Objects
 Silver Watch - mansion
 Leather Gloves - garden
+Antique Compass - pond
 
 Lugar
 Library (Aqui ocurrio el crimen)
