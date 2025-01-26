@@ -3,7 +3,7 @@
 ## Suspects
 - [ ] The Mayor
 - [X] The Police Officer
-- [ ] The Doctor
+- [X] The Doctor
 
 ## Weapons
 - [X] Wooden Box
@@ -17,6 +17,8 @@ The Florist - houses
 The Carpenter - mansion
 The Baker - park
 The Teacher - science lab
+The Tailor - town hall 
+The Baker - town hall (otra vez)
 
 Objects
 Silver Watch - mansion
